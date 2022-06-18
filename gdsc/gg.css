@@ -79,7 +79,7 @@ input[type=button] {
     border-radius: 30%;  
   
     font-weight: bold;
-  color: #ebc7bfea;  
+     background-color: #ebc7bfea;    
     cursor: pointer;  
     box-shadow: 5px 5px 0px rgb(72, 32, 218);  
   margin: 13px;
